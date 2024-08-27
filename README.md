@@ -20,4 +20,7 @@ To get started with this setup script, follow these steps:
    ```sh
    git clone https://github.com/yourusername/init_new_linux_system.git
 
+   ```
+   Secondly, run ./init.sh
+
 # init_new_linux_system
