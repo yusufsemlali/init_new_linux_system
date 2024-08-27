@@ -18,7 +18,7 @@ To get started with this setup script, follow these steps:
    First, clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/yourusername/init_new_linux_system.git
+   git clone https://github.com/yusufsemlali/init_new_linux_system.git
 
    ```
    Secondly, run ./init.sh
